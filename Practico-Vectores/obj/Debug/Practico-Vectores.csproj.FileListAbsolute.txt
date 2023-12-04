@@ -1,0 +1,28 @@
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe.config
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.pdb
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csprojAssemblyReference.cache
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Form1.resources
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Properties.Resources.resources
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csproj.GenerateResource.cache
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csproj.CoreCompileInputs.cache
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.exe
+D:\Programas C#\Semestre 2 - 2023\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe.config
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Form1.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe.config
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\bin\Debug\Practico-Vectores.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Form1.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico_Vectores.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\2.1 Practico-Vectores\Practico-Vectores\obj\Debug\Practico-Vectores.csproj.GenerateResource.Cache
